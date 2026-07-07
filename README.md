@@ -1,2 +1,0 @@
-# residentebhodonto
-repositorio padrao
