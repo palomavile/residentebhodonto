@@ -40,7 +40,7 @@ box-shadow:0 2px 10px rgba(0,0,0,.08);
 }
 
 header img{
-height:700px;
+height:70px;
 }
 
 .btn{
@@ -221,7 +221,7 @@ font-size:36px;
 
 <header>
 
-<img src="img\Logo.png" height="130">
+<img src="img\Logo.png">
 
 <a class="btn"
 href="https://wa.me/5531986616709?text=Olá%20Dra.%20Paloma,%20gostaria%20de%20agendar%20um%20atendimento."
